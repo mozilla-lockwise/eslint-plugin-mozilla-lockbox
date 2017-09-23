@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-mozilla-lockbox",
+  "version": "1.0.0",
+  "author": "Lockbox Team <lockbox@mozilla.com>",
+  "bugs": {
+    "url": "https://github.com/mozilla-lockbox/eslint-plugin-mozilla-lockbox/issues"
+  },
+  "homepage": "https://github.com/mozilla-lockbox/eslint-plugin-mozilla-lockbox#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla-lockbox/eslint-plugin-mozilla-lockbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eslint-plugin-mozilla": "^0.4.4",
+    "eslint-plugin-react": "^7.3.0"
+  }
+}
